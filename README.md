@@ -143,7 +143,6 @@ void loop()
 } 
 ```
 
-<iframe src="https://medium.com/media/136bf373ad8c0d108dfc0e4f94fd5f81" allowfullscreen="" frameborder="0" height="804" width="680" title="Arduino code for the Car-IOTA Part 2 tutorial" class="dg t u gr ak" scrolling="auto" style="box-sizing: inherit; top: 0px; left: 0px; width: 680px; position: absolute; height: 804px;"></iframe>
 
 The source code can be downloaded from [here](https://gist.github.com/huggre/8b00b5cc3681078aa8dba9367293f19c)
 
@@ -323,7 +322,6 @@ while True:
 
 ```
 
-<iframe src="https://medium.com/media/153c0f97780d6df09492c851bff3b958" allowfullscreen="" frameborder="0" height="3664" width="680" title="Python script for receiving IOTA address using IR" class="dg t u gr ak" scrolling="auto" style="box-sizing: inherit; top: 0px; left: 0px; width: 680px; position: absolute; height: 3664px;"></iframe>
 
 The source code can be downloaded from [here](https://gist.github.com/huggre/262f61c829c5e890c2ba7dd2caf0648a)
 
