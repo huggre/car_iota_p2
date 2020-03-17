@@ -351,6 +351,7 @@ Remember to update the* **car-iota-p2.py** *file with a valid seed (with a posit
 
 If you like this tutorial and want me to continue making others, feel free to make a small donation to the IOTA address shown below.
 
-![img](https://miro.medium.com/max/400/0*_V4-ghDTlSeP469e.png)
+![img](https://miro.medium.com/max/382/1*j2ENIzmDzXcGSgAdY4w-Jw.png)
 
-> *GTZUHQSPRAQCTSQBZEEMLZPQUPAA9LPLGWCKFNEVKBINXEXZRACVKKKCYPWPKH9AWLGJHPLOZZOYTALAWOVSIJIYVZ*
+NYZBHOVSMDWWABXSACAJTTWJOQRPVVAWLBSFQVSJSWWBJJLLSQKNZFC9XCRPQSVFQZPBJCJRANNPVMMEZQJRQSVVGZ
+
